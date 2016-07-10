@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>US-NM-2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons-{2}" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="US-NM-2">
+            <g>
+                <rect id="rect2138" fill="#000000" x="0" y="0" width="40" height="40" rx="2"></rect>
+                <path d="M29.6679756,36.7468785 C23.6855602,40.2014438 16.3144565,40.2014438 10.3320411,36.7468785 C4.34962567,33.2923132 0.665063928,26.9081832 0.666671089,19.9999807 C0.665063928,13.0917781 4.34962567,6.70764807 10.3320411,3.25308278 C16.3144565,-0.201482508 23.6855602,-0.201482508 29.6679756,3.25308278 C35.650391,6.70764807 39.3349527,13.0917781 39.3333456,19.9999807 C39.3349527,26.9081832 35.650391,33.2923132 29.6679756,36.7468785 Z" id="path2140" fill="#FFFFFF"></path>
+                <path d="M20,4.5 C11.4439968,4.5 4.5,11.444 4.5,20 C4.5,28.556 11.4439957,35.5 20,35.5 C28.5560043,35.5 35.5,28.5560053 35.5,20 C35.5,11.444 28.5560016,4.5 20,4.5 L20,4.5 Z M20,5.62318987 C27.9359984,5.62318987 34.3768117,12.064 34.3768117,20 C34.3768117,27.936 27.9359984,34.3768107 20,34.3768107 C12.0640032,34.3768107 5.62318827,27.936 5.62318827,20 C5.62318827,12.064 12.0640032,5.62318987 20,5.62318987 L20,5.62318987 Z" id="path2144" fill="#FF0000"></path>
+                <rect id="rect2010" fill="#FF0000" transform="translate(16.562168, 3.891927) rotate(-90.000000) translate(-16.562168, -3.891927) " x="15.1455011" y="3.37109376" width="2.83333333" height="1.04166667"></rect>
+                <rect id="rect2012" fill="#FF0000" transform="translate(18.853834, 2.975260) rotate(-90.000000) translate(-18.853834, -2.975260) " x="17.1871677" y="2.45442709" width="3.33333333" height="1.04166667"></rect>
+                <rect id="rect2014" fill="#FF0000" transform="translate(21.145501, 2.975260) rotate(-90.000000) translate(-21.145501, -2.975260) " x="19.4788344" y="2.45442709" width="3.33333333" height="1.04166667"></rect>
+                <rect id="rect2016" fill="#FF0000" transform="translate(23.437168, 3.891927) rotate(-90.000000) translate(-23.437168, -3.891927) " x="22.0205011" y="3.37109376" width="2.83333333" height="1.04166667"></rect>
+                <rect id="rect2022" fill="#FF0000" x="34.6914064" y="16.0416667" width="2.83333333" height="1.04166667"></rect>
+                <rect id="rect2024" fill="#FF0000" x="35.3580731" y="18.3333333" width="3.33333333" height="1.04166667"></rect>
+                <rect id="rect2026" fill="#FF0000" x="35.3580731" y="20.625" width="3.33333333" height="1.04166667"></rect>
+                <rect id="rect2028" fill="#FF0000" x="34.6914064" y="22.9166667" width="2.83333333" height="1.04166667"></rect>
+                <rect id="rect2034" fill="#FF0000" transform="translate(23.437500, 36.108672) rotate(90.000000) translate(-23.437500, -36.108672) " x="22.0208333" y="35.5878387" width="2.83333333" height="1.04166667"></rect>
+                <rect id="rect2036" fill="#FF0000" transform="translate(21.145833, 37.025339) rotate(90.000000) translate(-21.145833, -37.025339) " x="19.4791667" y="36.5045053" width="3.33333333" height="1.04166667"></rect>
+                <rect id="rect2038" fill="#FF0000" transform="translate(18.854167, 37.025339) rotate(90.000000) translate(-18.854167, -37.025339) " x="17.1875" y="36.5045053" width="3.33333333" height="1.04166667"></rect>
+                <rect id="rect2040" fill="#FF0000" transform="translate(16.562500, 36.108672) rotate(90.000000) translate(-16.562500, -36.108672) " x="15.1458333" y="35.5878387" width="2.83333333" height="1.04166667"></rect>
+                <rect id="rect2046" fill="#FF0000" transform="translate(3.891333, 23.437500) scale(-1, -1) translate(-3.891333, -23.437500) " x="2.47466677" y="22.9166667" width="2.83333333" height="1.04166667"></rect>
+                <rect id="rect2048" fill="#FF0000" transform="translate(2.974667, 21.145833) scale(-1, -1) translate(-2.974667, -21.145833) " x="1.30800011" y="20.625" width="3.33333333" height="1.04166667"></rect>
+                <rect id="rect2050" fill="#FF0000" transform="translate(2.974667, 18.854167) scale(-1, -1) translate(-2.974667, -18.854167) " x="1.30800011" y="18.3333333" width="3.33333333" height="1.04166667"></rect>
+                <rect id="rect2052" fill="#FF0000" transform="translate(3.891333, 16.562500) scale(-1, -1) translate(-3.891333, -16.562500) " x="2.47466677" y="16.0416667" width="2.83333333" height="1.04166667"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

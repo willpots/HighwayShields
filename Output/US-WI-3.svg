@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="40px" viewBox="0 0 60 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>US-WI-3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons-{3}" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="US-WI-3">
+            <g>
+                <rect id="Rectangle-59" fill="#000000" x="0" y="0" width="60" height="40"></rect>
+                <path d="M54.0652174,4 L50.8369565,7.67753623 L52.5978261,7.67753623 C55.0290527,7.67753623 57,8.91241986 57,10.4356884 L57,30.6621377 C57,32.1854062 55.0290527,33.4202899 52.5978261,33.4202899 L32.3478261,33.4202899 L30,36.178442 L27.6521739,33.4202899 L7.40217391,33.4202899 C4.97087561,33.4202899 3,32.1854062 3,30.6621377 L3,10.4356884 C3,8.91241986 4.97087561,7.67753623 7.40217391,7.67753623 L9.16304348,7.67753623 L5.93478261,4 L54.0652174,4 L54.0652174,4 Z" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

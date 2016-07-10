@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="40px" viewBox="0 0 60 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>US-VA-3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons-{3}" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="US-VA-3">
+            <g>
+                <rect id="rect7" fill="#000000" x="0" y="3.55271368e-15" width="60" height="40" rx="6"></rect>
+                <path d="M1,6.37253183 L1,15.5469411 C1.01311304,27.0764416 13.445287,36.7189599 30,39 C46.5648,36.7123482 59,27.0837145 59,15.5469411 L59,6.37253183 C59,3.39646877 56.4396369,1.00051718 53.9896851,1.00051718 L6.0512085,1.00051718 C3.26251221,1.00051718 1,3.44288298 1,6.37253183 Z" id="path9" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

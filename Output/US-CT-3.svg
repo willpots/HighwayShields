@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="40px" viewBox="0 0 60 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>US-CT-3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons-{3}" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="US-CT-3">
+            <g id="Shape">
+                <path d="M0,2.75862069 C0,1.23508217 1.85257273,0 4.13793103,0 L55.862069,0 C58.1474273,0 60,1.23508217 60,2.75862069 L60,37.2413793 C60,38.7649515 58.1474273,40 55.862069,40 L4.13793103,40 C1.85257273,40 0,38.7649515 0,37.2413793 L0,2.75862069 L0,2.75862069 L0,2.75862069 Z" fill="#000000"></path>
+                <path d="M4,5.45454545 C4,4.65122159 5.05818892,4 6.36363636,4 L53.6363636,4 C54.9418111,4 56,4.65122159 56,5.45454545 L56,34.5454545 C56,35.3488068 54.9418111,36 53.6363636,36 L6.36363636,36 C5.05818892,36 4,35.3488068 4,34.5454545 L4,5.45454545 L4,5.45454545 L4,5.45454545 Z" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
